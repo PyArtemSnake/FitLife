@@ -1,7 +1,3 @@
-import sys
-sys.stdout.reconfigure(encoding="utf-8") #  Из-за проблем с кодировкой в тесте
-
-
 WATER_FOR_KG = 30
 ML_IN_L = 1000
 
